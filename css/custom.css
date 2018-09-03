@@ -1,0 +1,10 @@
+.navbar-brand {
+	background: url("../img/transparent.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 160px;
+	height:60px;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
