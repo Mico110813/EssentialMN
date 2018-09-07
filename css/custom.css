@@ -8,3 +8,32 @@
     margin-bottom: 0.5em;
     margin-top: 0.5em;
 }
+
+.custom-font {
+    font-family:'PT Serif', serif;
+}
+
+.custom-font2{
+    font-family: 'Cormorant Infant', serif !important;
+    font-style: italic;
+}
+
+.aboutSec{
+    color:#515657;
+}
+
+/* centers the list items in about section */
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.custom-list{
+    list-style-type: none;
+}
+.custom-list2{
+    display:list-item;
+    list-style-type: circle;
+    list-style-position: inside;
+    
+}
