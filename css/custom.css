@@ -64,12 +64,12 @@ h3{
 
 .foot-icon {
     background-image: url("../img/icon2.png");
-    display:block;
+    display:inline-block;
     background-size:contain;
     background-repeat: no-repeat;
     width:60px;
     height:60px;
-    margin-left: 14em; 
+    margin-left: auto; 
 }
  ul {
     margin-top: 0.4em !important;
