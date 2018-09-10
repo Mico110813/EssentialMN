@@ -8,6 +8,15 @@
     margin-bottom: 0.5em;
     margin-top: 0.5em;
 }
+/* this aligns the navbar with body as chrome is stupid */
+body{
+  max-width:100%;
+}
+.navbar-default{
+  max-width:100%;
+}
+/* end of chrome workaround */
+
 
 .custom-font {
     font-family:'PT Serif', serif !important;
