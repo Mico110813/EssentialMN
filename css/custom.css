@@ -68,6 +68,9 @@ section#contact .section-heading {
 h3{
     color:#f3a71b;
 }
+.btn-primary{
+    color:#515657!important;
+}
 
 /* footer EMN logo and positioning */
 
@@ -85,3 +88,15 @@ h3{
 }
 
 /* end of positioning */
+
+/* hides labels on form to assist with screen readers */
+.visuallyHidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
