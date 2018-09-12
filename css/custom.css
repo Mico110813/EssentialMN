@@ -16,8 +16,6 @@ body{
   max-width:100%;
 }
 /* end of chrome workaround */
-
-
 .custom-font {
     font-family:'PT Serif', serif !important;
 }
