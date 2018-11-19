@@ -151,3 +151,10 @@ h3{
 .breadcrumb{
     background-color: #515657!important;
 }
+
+.team-section {
+    background-color: #515657
+}
+img.expand {
+    width:10em;
+}
